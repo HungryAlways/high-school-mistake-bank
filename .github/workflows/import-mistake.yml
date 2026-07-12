@@ -1,0 +1,26 @@
+name: Import mistake markdown
+
+on:
+  workflow_dispatch:
+    inputs:
+      target_path:
+        description: "Repository path for the markdown file"
+        required: true
+        type: string
+      content_b64:
+        description: "Base64-encoded UTF-8 markdown content"
+        required: true
+        type: string
+      commit_message:
+        description: "Commit message"
+        required: false
+        default: "docs: import mistake entry"
+        type: string
+  repository_dispatch:
+    types: [import_mistake]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: import-mistake-${{ github.event.client_payload.target_path || inputs.target_path }}
