@@ -26,13 +26,52 @@ tags:
 
 # ENG-0002 · Test 19 选词填空
 
-## 原题信息
+## 完整原题
 
-从方框中选择合适的单词完成短文，每词限用一次，另有一个多余词。
+### Directions
 
-词库：
+Complete the following passage by using the words in the box. Each word can only be used once. Note that there is one word more than you need.
 
-`adequately, advances, neighbour, colonize, concerns, create, intensively, settlers, smart, journey, survive`
+### Word bank
+
+A. adequately  
+B. advances  
+C. neighbour  
+D. colonize  
+E. concerns  
+F. create  
+G. intensively  
+H. settlers  
+I. smart  
+J. journey  
+K. survive
+
+### Passage
+
+> “Once we spread out into space and establish independent colonies, our future should be safe,” Stephen Hawking says. Stephen Hawking, one of the world’s most important scientists, believes that to **(1) ______** humans must move into space.
+>
+> Today, the United States, India, China, and Japan are all planning to send astronauts back to Earth’s closest **(2) ______**, the moon. Each country wants to create space stations there between 2020 and 2030. These stations will **(3) ______** prepare humans to visit and later live on Mars or other Earth-like planets.
+>
+> Robert Zubrin, a rocket scientist, thinks humans should **(4) ______** space. He wants to start with Mars. Why? There are several advantages: for one, sending people to the moon and Mars will allow us to learn a lot—for example, whether living on other planets is possible. Then, we can eventually **(5) ______** new human societies on other planets. In addition, the **(6) ______** we make for space travel in the fields of science, technology, medicine, and health can also benefit us here on Earth.
+>
+> But not everyone thinks sending humans into space is a(n) **(7) ______** idea. Many say it’s too expensive to send people, even on a short **(8) ______**. And most space trips are not short. A one-way trip to Mars, for example, would take about six months. People travelling this kind of distance face a number of health problems. Also, for many early space **(9) ______**, life would be extremely difficult. On the moon’s surface, for example, the air and the sun’s rays are very dangerous. People would have to stay indoors most of the time.
+>
+> Despite these **(10) ______**, sending people into space seems certain. In the future, we might see lunar cities and maybe even new human cultures on other planets.
+
+## 完整答案
+
+1. survive  
+2. neighbour  
+3. adequately  
+4. colonize  
+5. create  
+6. advances  
+7. smart  
+8. journey  
+9. settlers  
+10. concerns
+
+多余词：`intensively`
 
 ## 作答结果
 
@@ -42,17 +81,6 @@ tags:
 | --- | --- | --- | --- | --- |
 | 1 | believes that to ___ humans must move into space | settlers（从卷面判断） | survive | 错 |
 | 5 | we can eventually ___ new human societies on other planets | adequately（从卷面判断） | create | 错 |
-
-其余可见空格答案：
-
-2. neighbour  
-3. adequately  
-4. colonize  
-6. advances  
-7. smart  
-8. journey  
-9. settlers  
-10. concerns
 
 ## 错题 1：survive
 
@@ -118,4 +146,4 @@ tags:
 
 ## 图片说明
 
-原卷图片保留在本次 ChatGPT 对话中；当前 GitHub 条目记录了可辨认的题干、答案和错因。图片下方的 B 篇内容不完整，因此本条目仅收录完整可见的 A 篇。
+原卷图片保留在本次 ChatGPT 对话中。图片下方的 B 篇只显示了开头，题目并不完整，因此本条目仅收录完整可见的 A 篇原文。
